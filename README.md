@@ -32,3 +32,8 @@ __Languages__ <br>
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/hazem-ragab-889247204/"><img src="https://img.shields.io/badge/-Hazem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  
+</p>
+
