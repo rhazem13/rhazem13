@@ -1,5 +1,5 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFs9TO3dhrYsg/profile-displaybackgroundimage-shrink_350_1400/0/1662232718602?e=1668643200&v=beta&t=fjAYXxF8ayWeptwLTrDWGiVuspMvzEyoq9iLMmnNEHc"/>
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Hand_Wave.gif"/> Hi there 👋
 
 <!--
 **rhazem13/rhazem13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
