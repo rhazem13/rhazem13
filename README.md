@@ -31,6 +31,15 @@ __Languages__ <br>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/SilasKati">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhazem13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhazem13&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hazem-ragab-889247204/"><img src="https://img.shields.io/badge/-Hazem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
