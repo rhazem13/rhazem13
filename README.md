@@ -17,3 +17,18 @@ __Languages__ <br>
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 <br> __Databases__ <br>
 ![SqlServer](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoft-sql-server)
+
+<br> __IDE__ <br>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Pycharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+![Anaconda](https://img.shields.io/badge/-Conda-05122A?style=flat&logo=anaconda)
+
+<br> ☁️ Hosting <br>
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<br> __Frameworks__ <br>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### 🤝🏻 &nbsp;Connect with Me
