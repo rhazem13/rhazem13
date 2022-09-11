@@ -16,4 +16,4 @@ __Languages__ <br>
 ![c#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 <br> __Databases__ <br>
-[SqlServer](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoft-sql-server)
+![SqlServer](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoft-sql-server)
