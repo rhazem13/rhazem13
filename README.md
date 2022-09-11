@@ -34,6 +34,8 @@ __Languages__ <br>
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hazem-ragab-889247204/"><img src="https://img.shields.io/badge/-Hazem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  
+  <a href="https://twitter.com/HazemRagaab"><img src="https://img.shields.io/badge/@HazemRagaab-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hazemragabb/"><img src="https://img.shields.io/badge/-@hazemragabb-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/HazemRg/"><img src="https://img.shields.io/badge/-@HazemRg-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
