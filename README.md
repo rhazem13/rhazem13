@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhazem13&label=Profile%20views&color=0e75b6&style=flat" alt="rhazem13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhazem13" alt="rhazem13" /></a> </p>
-
 - 🔭 I’m currently working on Angular project [fitness-tracker](https://github.com/rhazem13/fitness-tracker)
 
 <h3 align="left">Connect with me:</h3>
@@ -13,9 +11,8 @@
 <a href="https://linkedin.com/in/hazem-ragab-889247204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem-ragab-889247204" height="30" width="40" /></a>
 <a href="https://fb.com/hazemrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazemrg" height="30" width="40" /></a>
 <a href="https://instagram.com/hazemragabb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazemragabb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hazem8278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hazem8278" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc4vclvcmvpsvns0m0fdutww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4vclvcmvpsvns0m0fdutww" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rhazem13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rhazem13" height="30" width="40" /></a>
-<a href="https://discord.gg/Hazem#6468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hazem#6468" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
