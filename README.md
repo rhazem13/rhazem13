@@ -15,8 +15,10 @@ __Languages__ <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![c#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 <br> __Databases__ <br>
 ![SqlServer](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoft-sql-server)
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=microsoft-sql-server)
 
 <br> __IDE__ <br>
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
