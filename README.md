@@ -48,3 +48,7 @@ __Languages__ <br>
   <a href="https://www.facebook.com/HazemRg/"><img src="https://img.shields.io/badge/-@HazemRg-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
