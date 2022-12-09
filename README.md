@@ -11,6 +11,8 @@
 <img alt="Coding" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Coding.gif" width="300" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+__Frameworks__ <br>
+* [![Angular][Angular.io]][Angular-url]
 __Languages__ <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![c#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
