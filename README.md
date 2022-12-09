@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhazem13&label=Profile%20views&color=0e75b6&style=flat" alt="rhazem13" /> </p>
 <br>
-### 👨🏻‍💻 &nbsp;About Me
+<h3 align="left">👨 About Me</h3>
 - 💡 &nbsp;I like to explore new technologies and develop robust and efficient software solutions.
 - 💬 &nbsp;I'm completely open to discussions and getting to know each other.
 - ✉️ &nbsp;You can shoot me an email at rhazem13@yahoo.com ...!!! I'll try to respond as soon as I can.
