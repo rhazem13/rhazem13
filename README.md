@@ -50,5 +50,5 @@ __Languages__ <br>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/rhazem13/count.svg" />
 </p>
