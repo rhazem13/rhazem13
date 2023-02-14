@@ -1,4 +1,4 @@
-<img src="/assets/★,｡･_ Realidad Deseada__･ﾟ☆.jpeg"/>
+<img src="/assets"/>
 <img alt="Hand_Wave" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Hand_Wave.gif" width='70' align="left"/><h2>Hey there! I'm Hazem</h2>
 
 <br>
