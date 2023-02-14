@@ -1,4 +1,4 @@
-<img src="/assets"/>
+<img src="https://e0.pxfuel.com/wallpapers/692/212/desktop-wallpaper-notion-covers-ideas-notions-cover-solid-background.jpg" style="width:100%;"/>
 <img alt="Hand_Wave" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Hand_Wave.gif" width='70' align="left"/><h2>Hey there! I'm Hazem</h2>
 
 <br>
