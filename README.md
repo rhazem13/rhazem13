@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="center">Fullstack .NET & Angular developer</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhazem13&label=Profile%20views&color=0e75b6&style=flat" alt="rhazem13" /> </p>
 <br>
@@ -11,7 +11,7 @@
 - 💡 &nbsp;I like to explore new technologies and develop robust and efficient software solutions.<br>
 - 💬 &nbsp;I'm completely open to discussions and getting to know each other.<br>
 - ✉️ &nbsp;You can shoot me an email at rhazem13@yahoo.com ...!!! I'll try to respond as soon as I can.<br>
-- 🔭 I’m currently working on Fullstack Project (BeFriends)<br>
+- 🔭 I’m currently working on Fullstack Project <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
