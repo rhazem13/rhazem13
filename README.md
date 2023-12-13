@@ -11,7 +11,7 @@
 - 💡 &nbsp;I like to explore new technologies and develop robust and efficient software solutions.<br>
 - 💬 &nbsp;I'm completely open to discussions and getting to know each other.<br>
 - ✉️ &nbsp;You can shoot me an email at rhazem13@yahoo.com ...!!! I'll try to respond as soon as I can.<br>
-- 🔭 I’m currently working on Fullstack Project <br>
+- 🔭 I’m currently working as a Freelancer <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
