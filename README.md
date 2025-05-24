@@ -15,11 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hazemragaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hazemragaab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hazem-ragab-889247204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem-ragab-889247204" height="30" width="40" /></a>
-<a href="https://fb.com/hazemrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazemrg" height="30" width="40" /></a>
-<a href="https://instagram.com/hazemragabb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazemragabb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc4vclvcmvpsvns0m0fdutww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4vclvcmvpsvns0m0fdutww" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lllhr7lll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazemrg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hazemraagab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazemragabb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hazem8278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4vclvcmvpsvns0m0fdutww" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rhazem13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rhazem13" height="30" width="40" /></a>
 </p>
 
