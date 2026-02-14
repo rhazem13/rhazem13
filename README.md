@@ -1,73 +1,82 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3596F6&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;DOTNET+%26+Angular+Specialist;Algorithm+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3596F6&center=true&vCenter=true&width=600&lines=Hazem+Ragab;Full-Stack+Software+Engineer;System+Architecture+%26+Algorithms;Ranked+1st+in+Class+(3.91+GPA)" alt="Typing SVG" />
+  
+  <p align="center">
+    <b>Building scalable enterprise solutions & optimizing complex workflows.</b>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/hazem-ragab-889247204"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:h.ragab.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/rhazem13"><img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/hazem-ragab-889247204" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:h.ragab.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://leetcode.com/rhazem13">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
-  </a>
-</div>
-
-<br />
+<hr />
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Software Engineer** passionate about algorithms, system design, and building scalable enterprise applications.
+I am a **Full-Stack Software Engineer** based in Suez, Egypt, currently working at **[DP World](https://www.dpworld.com/)**. I specialize in **.NET Core** and **Angular** ecosystems, with a deep passion for **Algorithms** and **System Design**.
 
-* 🔭 I’m currently working at **[DP World](https://www.dpworld.com/)** as a Software Engineer, developing Logistics and Finance software using **.NET Core** and **Angular**.
-* 🎓 I graduated **1st in my class** (GPA 3.91/4.0) with a B.Sc. in Computer Science.
-* 🚀 Extensive background in freelance, building platforms ranging from AI-powered e-commerce to real-time social networks using **SignalR** and **WebSockets**.
-* ⚡ **Focus:** Automating complex workflows, optimizing legacy systems, and Cloud/DevOps (Azure).
-
----
-
-### 🛠️ Technical Stack
-
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
-**Backend & Frameworks**
-<br>
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SignalR-1267AB?style=for-the-badge&logo=signalr&logoColor=white" />
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-**Databases & Cloud**
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+* 🏆 **Top of Class:** I graduated **1st in my university class** with a **3.91 GPA**.
+* 🏭 **Enterprise Experience:** Currently modernizing Logistics & Finance systems at a global scale.
+* 🧠 **Problem Solver:** I love optimizing legacy code and building real-time systems using **SignalR** and **WebSockets**.
+* 🌐 **Freelance Veteran:** extensive experience delivering production apps (E-commerce, Social, AI integration).
 
 ---
 
-### 📊 GitHub Analytics
+### 💼 Professional Experience
+
+#### 🚢 **Software Engineer @ DP World**
+*(June 2025 - Present)*
+> Developing Logistics and Finance software, automating workflows, and upgrading legacy systems.
+* **Tech:** .NET Core, Angular, SQL Server, Worker Services.
+* **Key Impact:** Engineered automated background services to process financial data, significantly reducing manual intervention.
+
+---
+
+### 🛠️ Featured Projects
+
+I have architected and delivered multiple full-stack platforms across different industries.
+
+| Project & Role | Description & Tech Stack |
+| :--- | :--- |
+| **BeFriends** <br> *(Social Network)* | A complex social network handling relational data with live user presence. <br> 🛠 **.NET Core, Angular, SignalR (Real-time), SQL** |
+| **AskCity** <br> *(Live Platform)* | Location-based social platform with live streaming and map feeds. <br> 🛠 **Flutter, PHP, Agora SDK, Google Maps API, Back4App** |
+| **Charity-Donations** <br> *(FinTech/AI)* | Donation platform with RBAC and automated document validation using AI. <br> 🛠 **React, Flask, PayPal API, YOLO (Object Detection)** |
+| **Memory Mate** <br> *(Geospatial)* | Backend for finding nearby friends using geospatial queries. <br> 🛠 **Flask, PostGIS, Redis (Caching)** |
+| **W DE MODA** <br> *(E-Commerce)* | Full ecosystem with logistics integration and secure OAuth access. <br> 🛠 **Laravel, Nuxt.js, J&T Express API, MSG91** |
+| **Quantum** <br> *(CMS)* | Dynamic Content Management System with a custom admin dashboard. <br> 🛠 **React, Flask, REST APIs** |
+| **NAQAA** <br> *(Retail)* | Unified multi-platform solution (Mobile, Web, Admin) with synced carts. <br> 🛠 **React, Flutter, Refine** |
+
+---
+
+### 💻 Technical Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhazem13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhazem13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+
+| Backend | Frontend | Database & Cloud |
+| :---: | :---: | :---: |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
 </div>
 
-<br>
+---
+
+### 📜 Certifications
+
+* 📜 **Algorithmic Toolbox** - Coursera
+* 📜 **Software Architecture** - Coursera
+* 📜 **Object-Oriented Design** - Coursera
+* 📜 **Web Development Using .NET** - ITI
+* 📜 **Solid Principles in C#**
+
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rhazem13&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+  <i>"Passionate about rapid learning and shipping high-quality code."</i>
 </div>
